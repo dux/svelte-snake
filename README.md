@@ -1,8 +1,12 @@
+# Snake Svelte app
+
+[Preview](https://svelte.dev/repl/f53791fbf4284bf99d7167a6655d0159?version=3.31.0)
+
+# svelte app
+
 *Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
 
 ---
-
-# svelte app
 
 This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
 
